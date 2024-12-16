@@ -1,4 +1,11 @@
 # AxisConsolidator
+
+##Update
+It seems I may have created this mod in response to some bug. After plugging in different controllers and resetting various settings to default the jetpack in the base game now matches the player look direction when this mod is turned off.  
+I will leave this mod available because others have had issues with the stick inversion, and this also gives the option for players to have the jetpack inversion follow the ship instead of the player. Original text for this mod below. 
+
+------------
+
 Outer Wilds mod to align jetpack flight vertical look direction to either player or ship setting
 
 This mod changes the behavior of the vertical (y-axis) look direction for the player when using the jetpack.
